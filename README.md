@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### MY GITHUB STATS:
-[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar8a&?theme=dark)](https://github.com/oscar8a/github-readme-stats)
+[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar8a&theme=dark)](https://github.com/oscar8a/github-readme-stats)
 
 ### 🛠  Tech Stack
 
